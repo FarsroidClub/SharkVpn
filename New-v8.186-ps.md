@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "02984",
-"ShowTime": "2802039289",
+"MessageID": "1719938",
+"ShowTime": "99999",
 "Button": " دانلود از تلگرام ",
 "ButtonCancell": " نمیخوام ",
-"Closure": "true",
+"Closure": "false",
 "Show": "on"
 }
